@@ -1,0 +1,47 @@
+/* SETTING CSS PROPERTIES FOR 'index2.html' and 'MealDeatail.js' */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(250, 168, 54);
+}
+
+#main {
+    /* border: 1px solid black; */
+
+    display: flex;
+}
+
+#divMealDetails{
+    padding: 2rem;
+    background-color: rgba(240, 248, 255, 0.559);
+    font-family: cursive;
+    font-size: larger;
+    font-weight: 400;
+}
+
+#divMealDetails h6{
+    color:rgb(49, 5, 5);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    display: inline;
+}
+
+#divMealDetails div{
+    margin: 2rem 0 2rem 0;
+}
+
+#image {
+    display: flex;
+    height: 50vh;
+    justify-content: center;
+    /* border: 1px solid red; */
+}
+
+#category p{
+    display: inline;
+}
+
+#area p{
+    display: inline;
+}
