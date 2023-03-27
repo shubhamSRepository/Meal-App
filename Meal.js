@@ -89,7 +89,8 @@ function detailsPage(varNameInLS) {
     // this function will open meal details of meal clicked by user from suggestions list in a new page
 
     localStorage.setItem("suggestionClickedName", varNameInLS);
-    window.location.href='/index2.html';
+    // window.location.href='/index2.html'; // to open in same tab
+    window.open("index2.html"); //to open in new tab
 
 };
 
