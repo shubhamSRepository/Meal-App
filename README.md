@@ -2,6 +2,8 @@
 # ***Meal App*** :yum: 
 This is a front-end project, a 'Meal App' that helps the user to find their favourite meals from a huge variety of meals.
 
+## Project Link :- https://sprightly-druid-234063.netlify.app/
+
 
 ## Features
 
