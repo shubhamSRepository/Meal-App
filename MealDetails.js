@@ -26,8 +26,8 @@ mealDetailsRequest.onload = function () {
     // iterating over array 'mealsListByFistAlpha' to find object containing details of meal user has asked for
     for (let i = 0; i < mealsListByFirstAlpha.length; i++) {
         if (mealsListByFirstAlpha[i].strMeal === suggestionClickedName) {
+            
             suggestionClickedDetails = mealsListByFirstAlpha[i];
-            // console.log(suggestionClickedDetails);
         }
 
     }

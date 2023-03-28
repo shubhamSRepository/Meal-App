@@ -125,5 +125,6 @@ header {
 }
 
 .RemoveFavListBtn-style:hover {
-    background-color: brown;
+    background-color: red;
+    color: white;
 }
